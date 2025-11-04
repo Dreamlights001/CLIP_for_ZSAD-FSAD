@@ -1,5 +1,5 @@
 # Contrastive Language-Image Pre-Training Methods Redefining Zero-shot/Few-shot Anomaly Detection: A Survey and Outlook
-
+Language: English[],Chinese[]
 ## 1. Introduction
 
 Industrial Anomaly Detection (IAD) is a typical application of computer vision in the manufacturing industry, aiming to automatically identify anomalous products during the production process. This task generally involves three levels of questions: "What is the defect" (Classification), "Where is the defect" (Localization), and "How many defects are there" (Segmentation/Counting).
