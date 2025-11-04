@@ -1,5 +1,5 @@
 # 对比语言-图像预训练方法重新定义零样本异常检测：综述与展望
-
+语言：[英文](https://github.com/Dreamlights001/CLIP_for_ZSAD-FSAD),[中文](https://github.com/Dreamlights001/CLIP_for_ZSAD-FSAD/blob/main/README-zh.md)
 ## 1. 引言
 
 工业瑕疵检测（IAD）属于计算机视觉在制造行业的一种典型应用，旨在自动识别工业生产过程中的异常产品。此任务通常包含三个层面的问题："什么是缺陷"（分类）、"缺陷在哪里"（定位）以及"有多少缺陷"（分割/计数）。
